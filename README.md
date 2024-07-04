@@ -2,6 +2,10 @@
 
 School student information using object orientation in Python
 
+#### Create an object
+
+    student = school(95, 160, 29, 'male')
+    
 #### Calculate BMI
 
     print("BMI:", student.bmi())
